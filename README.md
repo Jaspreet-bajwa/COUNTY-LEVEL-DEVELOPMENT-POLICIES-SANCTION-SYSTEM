@@ -1,5 +1,5 @@
-# policymaker.io
-Policymaker.io is a full fledged management information system, that helps policy makers to analyses data in unemployment, population, poverty and education domains, which help in making better informed decisions.
+# COUNTY-LEVEL-DEVELOPMENT-POLICIES-SANCTION-SYSTEM
+COUNTY-LEVEL-DEVELOPMENT-POLICIES-SANCTION-SYSTEM is a full fledged management information system, that helps policy makers to analyses data in unemployment, population, poverty and education domains, which help in making better informed decisions.
 
 The application is a [SPA](https://en.wikipedia.org/wiki/Single-page_application) made completely in [Vue.js](https://vuejs.org/). The back-end REST API has been developed in Node.js+ Restify.js. The database is ORACLE 11g.
 
